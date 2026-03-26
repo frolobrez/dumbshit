@@ -3,7 +3,7 @@
 int getInteger()
 {
     int x{};
-    std::cout<<"ia da un integer coisor: ";
+    std::cout<<"ia da un integer: ";
     std::cin>>x;
     return x;
 }
